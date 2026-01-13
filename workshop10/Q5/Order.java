@@ -1,4 +1,4 @@
-package workshop10;
+package workshop10.Q5;
 public class Order
 {
     private String orderId;
